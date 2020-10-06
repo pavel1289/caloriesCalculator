@@ -1,0 +1,4 @@
+Name, Quantity
+banana, 215
+iaurt0.1, 500
+paineBongranaHipoglucidica, 70

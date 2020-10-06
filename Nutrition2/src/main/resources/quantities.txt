@@ -1,0 +1,6 @@
+Name, Quantity
+ou, 125
+salataVerde, 77
+rosie, 191
+ardeiCapia, 88
+linteFiarta, 207

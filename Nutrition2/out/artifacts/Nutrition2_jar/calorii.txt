@@ -1,0 +1,11 @@
+         <<<   ^^^   TOTAL   ^^^   >>>
+
+
+   <<<           KCAL          >>>   234.0
+   <<<     GRASIMI SATURATE    >>>   6.8
+   <<<    GRASIMI NESATURATE   >>>   4.4
+   <<<          ZAHAR          >>>   7.2
+   <<<  CARBOHIDRATI COMPLECSI >>>   0.0
+   <<<         PROTEINE        >>>   26.0
+   <<<          FIBRE          >>>   0.0
+   <<<    CANTITATE TOTALA     >>>   200.0

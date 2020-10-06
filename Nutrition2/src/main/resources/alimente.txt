@@ -1,0 +1,21 @@
+Nume, Kcal, GrasimiSaturate, GrasimiNesaturate, Zahar, CarbohidratiComplecsi, Proteine, Fibre
+ou, 154, 3.31, 8.35, 0.31, 0.33, 10.57, 0
+carnePui, 79, 0.13, 0.26, 0.1, 2.07, 16.79, 0
+lapte1.5, 44, 0.9, 0.6, 4.5, 0, 3.05, 0
+
+paineGraham30%Velpitar, 249, 0.3, 1, 2.9, 41.8, 11.4, 6.2
+
+banana, 89, 0.11, 0.22, 4.98, 7.25, 1.09, 2.6
+
+linteFiarta, 106, 0, 0.5, 0, 22.1, 9, 7
+linteNepreparata, 343, 0.15, 0.91, 2.03, 58.05, 25.8, 30.5
+morcov, 41, 0.03, 0.21, 0.59, 4.15, 0.93, 2.8
+rosie, 23, 0.03, 0.17, 4, 1.1, 1.2, 1.1
+ardeiCapia, 26, 0.2, 0.1, 4.2, 2.1, 1, 2.1
+ardeiGrasRosu, 31, 0.02, 0.27, 4.2, 1.83, 0.99, 2.1
+
+ceapaVerde, 27, 0.08, 0.39, 2.07, 2.9, 0.97, 1.8
+patrunjel, 36, 0.13, 0.66, 0, 0.85, 2.97, 3.3
+salataVerde, 13, 0.02, 0.2, 0.43, 0.51, 1.35, 1.1
+
+nuca, 654, 6.12, 59.09, 0.08, 2.53, 15.23, 6.7
